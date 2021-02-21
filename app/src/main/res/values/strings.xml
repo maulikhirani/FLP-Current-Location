@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FLP Current Location</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="click_the_button_to_start">Click the button to start</string>
+    <string name="loading">Loading…</string>
+    <string name="current_location">Current Location is %1$f, %2$f</string>
+    <string name="permission_not_granted">Permission is not granted</string>
+    <string name="allow_permission_from_settings">Allow location permissions from settings</string>
+</resources>
