@@ -18,7 +18,7 @@ We have been using some hacks with this API to get the single location. For exam
 
 ## [`getCurrentLocation()`][getCuurentLocationAPIUrl] API :new:
 
-To provide a more developer-friendly experience to get a single location, FLP (`com.google.android.gms:play-services-location:17.1.0`) has introduced getCurrentLocation() API. This API gives you the straightforward implementation to get the latest-single location. Just call FLP.getCurrentLocation() and register the success and failure listeners. This API automatically releases the location services as soon as you get the location. Also it takes care of setting a default timeout so that the location services are not consumed indefinitely. 
+To provide a more developer-friendly experience to get a single location, FLP (`com.google.android.gms:play-services-location:17.1.0`) has introduced `getCurrentLocation()` API. This API gives you the straightforward implementation to get the latest-single location. Just call `FLP.getCurrentLocation()` and register the success and failure listeners. This API automatically releases the location services as soon as you get the location. Also it takes care of setting a default timeout so that the location services are not consumed indefinitely. 
 
 To know how to use it in action, checkout the code!
 
