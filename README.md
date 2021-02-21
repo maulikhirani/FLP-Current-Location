@@ -3,7 +3,7 @@ The demo app shows the implementation of the latest API - [`getCurrentLocation()
 
 ## Background
 
-Getting current location of the user is one of the most useful features when you want to give location-based experiences in their app. Many of the times, we just want to get the latest location of the phone and do the action using that location i.e. Search nearby places, restaurants, save address, etc.  
+Getting current location of the user is one of the most useful features when you want to give location-based experiences in the app. Many of the times, we just want to get the latest location of the phone and do the action using that location i.e. Search nearby places, restaurants, save address, etc.  
 
 To get the current location, we have the Google's [FusedLocationProvider][FLPTrainingUrl] APIs. 
 The **FLP (FusedLocationProvider)** provides two different APIs to get the location: 
